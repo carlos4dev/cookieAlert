@@ -1,0 +1,25 @@
+{
+  "name": "cookiesalert",
+  "version": "0.1.0",
+  "description": "Cookie alert for LOPD",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos4dev/cookieAlert.git"
+  },
+  "keywords": [
+    "cookie",
+    "alert",
+    "lopd",
+    "js"
+  ],
+  "author": "Carlos Martí <carlos@cdecarlos.com> (https://twitter.com/carlos4dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlos4dev/cookieAlert/issues"
+  },
+  "homepage": "https://github.com/carlos4dev/cookieAlert#readme"
+}
